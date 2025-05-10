@@ -1,6 +1,12 @@
 # wtf_py
 Whiskey Tango Foxtrot
 
+## Solved
+Also: "Solved", derr! 
+
+Mutable Default Arguments
+https://docs.python-guide.org/writing/gotchas/ 
+
 ## Output
 ```
 ❯ python --version
